@@ -1,0 +1,11 @@
+0.08
+0.9
+250
+40
+1
+
+  ReadInput >> r;
+  ReadInput >> pc;
+  ReadInput >> N_gen;
+  ReadInput >> N_mig;
+  ReadInput >> migra;
